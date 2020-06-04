@@ -9,6 +9,7 @@ subject	ID of the 30 volunteers who performed the activity. Its range is from 1 
 |Variable name	  |Description                                                     |
 |:----------------|---------------------------------------------------------------:|
 |Activity	        |Activity type that the 30 volunteers who performed the activity |
+             
              |  Its has 6 levels:
              |   1. WALKING
              |   2. WALKING_UPSTAIRS
